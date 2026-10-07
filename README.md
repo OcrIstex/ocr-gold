@@ -2,8 +2,8 @@
 
 *Configurez en un clic votre datalab propulsé par Nix sur Onyxia*
 
-[![Onyxia](https://img.shields.io/badge/Onyxia%20(sspcloud)-Cr%C3%A9er%20un%20nouveau%20service-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyBjbGFzcz0ib255eGlhLWZpbGwtdXNlQ2FzZXMtdHlwb2dyYXBoeS10ZXh0Rm9jdXMgdHNzLXUyczk5NC1UaGVtZWRTdmctcm9vdC1CcmFuZEhlYWRlclNlY3Rpb24tbG9nbyIgdmlld0JveD0iMzMgMTkgMzc1IDI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjRkY1NjJDIj4KICA8ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJzcGxhc2hzY3JlZW4tYW5pbWF0aW9uLWdyb3VwMSI+CiAgICA8cGF0aCBkPSJNMjMyLjc0MyA4OC43Nzc0TDI2Ni42OTMgMTIyLjg5OEMyNzcuNTAyIDEzMy43NjEgMjk1LjAxOCAxMzMuNzYxIDMwNS44MTIgMTIyLjg5OEwzMzkuNzYyIDg4Ljc3NzRMMjg2LjI1MyAzNUwyMzIuNzQzIDg4Ljc3NzRaIj48L3BhdGg+CiAgICA8cGF0aCBkPSJNMTA2LjI1MyA4OC43Nzc0TDE0MC4yMDQgMTIyLjg5OEMxNTEuMDEyIDEzMy43NjEgMTY4LjUyOCAxMzMuNzYxIDE3OS4zMjIgMTIyLjg5OEwyMTMuMjczIDg4Ljc3NzRMMTU5Ljc2MyAzNUwxMDYuMjUzIDg4Ljc3NzRaIj48L3BhdGg+ICAgCiAgPC9nPgogIDxnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY2xhc3M9InNwbGFzaHNjcmVlbi1hbmltYXRpb24tZ3JvdXAyIj4KICAgICAgPHBhdGggZD0iTTQzIDE1Mi4zMzFMNzYuOTUwOCAxODYuNDUyQzg3Ljc1OTQgMTk3LjMxNCAxMDUuMjc1IDE5Ny4zMTQgMTE2LjA2OSAxODYuNDUyTDE1MC4wMiAxNTIuMzMxTDk2LjUwOTkgOTguNTUzN0w0MyAxNTIuMzMxWiI+PC9wYXRoPgogICAgICA8cGF0aCBkPSJNMTY5LjQ5IDE1Mi4zMzFMMjAzLjQ0MSAxODYuNDUyQzIxNC4yNSAxOTcuMzE0IDIzMS43NjUgMTk3LjMxNCAyNDIuNTU5IDE4Ni40NTJMMjc2LjUxIDE1Mi4zMzFMMjIzIDk4LjU1MzdMMTY5LjQ5IDE1Mi4zMzFaIj48L3BhdGg+CiAgICAgIDxwYXRoIGQ9Ik0zNDkuNDkgOTguNTUzN0wyOTUuOTggMTUyLjMzMUwzMjkuOTMxIDE4Ni40NTJDMzQwLjc0IDE5Ny4zMTQgMzU4LjI1NiAxOTcuMzE0IDM2OS4wNDkgMTg2LjQ1Mkw0MDMgMTUyLjMzMUwzNDkuNDkgOTguNTUzN1oiPjwvcGF0aD4KICA8L2c+CiAgPGcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjbGFzcz0ic3BsYXNoc2NyZWVuLWFuaW1hdGlvbi1ncm91cDMiPgogICAgPHBhdGggZD0iTTEwNi4yNTMgMjE1LjlMMTQwLjIwNCAyNTAuMDJDMTUxLjAxMiAyNjAuODgzIDE2OC41MjggMjYwLjg4MyAxNzkuMzIyIDI1MC4wMkwyMTMuMjczIDIxNS45TDE1OS43NjMgMTYyLjEyM0wxMDYuMjUzIDIxNS45WiI+PC9wYXRoPgogICAgPHBhdGggZD0iTTIzMi43NDMgMjE1LjlMMjY2LjY5MyAyNTAuMDJDMjc3LjUwMiAyNjAuODgzIDI5NS4wMTggMjYwLjg4MyAzMDUuODEyIDI1MC4wMkwzMzkuNzYyIDIxNS45TDI4Ni4yNTMgMTYyLjEyM0wyMzIuNzQzIDIxNS45WiI+PC9wYXRoPgogIDwvZz4KPC9zdmc+)](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?name=.datalab&version=2.5.2&s3=default&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2Feonm-pro%2F.datalab%2Frefs%2Fheads%2Fmain%2Finit.sh»&git.name=«»&git.email=«»&git.repository=«https%3A%2F%2Fgithub.com%2Feonm-pro%2F.datalab»&autoLaunch=false)
-[![Static Badge](https://img.shields.io/badge/Github%20Template-Utiliser%20ce%20d%C3%A9p%C3%B4t%20comme%20mod%C3%A8le-green?logo=github&link=https%3A%2F%2Fgithub.com%2Feonm-pro%2F.datalab%2Fgenerate)](https://github.com/new?template_name=.datalab&template_owner=eonm-pro)
+[![Onyxia](https://img.shields.io/badge/Onyxia%20(sspcloud)-Cr%C3%A9er%20un%20nouveau%20service-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyBjbGFzcz0ib255eGlhLWZpbGwtdXNlQ2FzZXMtdHlwb2dyYXBoeS10ZXh0Rm9jdXMgdHNzLXUyczk5NC1UaGVtZWRTdmctcm9vdC1CcmFuZEhlYWRlclNlY3Rpb24tbG9nbyIgdmlld0JveD0iMzMgMTkgMzc1IDI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjRkY1NjJDIj4KICA8ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJzcGxhc2hzY3JlZW4tYW5pbWF0aW9uLWdyb3VwMSI+CiAgICA8cGF0aCBkPSJNMjMyLjc0MyA4OC43Nzc0TDI2Ni42OTMgMTIyLjg5OEMyNzcuNTAyIDEzMy43NjEgMjk1LjAxOCAxMzMuNzYxIDMwNS44MTIgMTIyLjg5OEwzMzkuNzYyIDg4Ljc3NzRMMjg2LjI1MyAzNUwyMzIuNzQzIDg4Ljc3NzRaIj48L3BhdGg+CiAgICA8cGF0aCBkPSJNMTA2LjI1MyA4OC43Nzc0TDE0MC4yMDQgMTIyLjg5OEMxNTEuMDEyIDEzMy43NjEgMTY4LjUyOCAxMzMuNzYxIDE3OS4zMjIgMTIyLjg5OEwyMTMuMjczIDg4Ljc3NzRMMTU5Ljc2MyAzNUwxMDYuMjUzIDg4Ljc3NzRaIj48L3BhdGg+ICAgCiAgPC9nPgogIDxnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY2xhc3M9InNwbGFzaHNjcmVlbi1hbmltYXRpb24tZ3JvdXAyIj4KICAgICAgPHBhdGggZD0iTTQzIDE1Mi4zMzFMNzYuOTUwOCAxODYuNDUyQzg3Ljc1OTQgMTk3LjMxNCAxMDUuMjc1IDE5Ny4zMTQgMTE2LjA2OSAxODYuNDUyTDE1MC4wMiAxNTIuMzMxTDk2LjUwOTkgOTguNTUzN0w0MyAxNTIuMzMxWiI+PC9wYXRoPgogICAgICA8cGF0aCBkPSJNMTY5LjQ5IDE1Mi4zMzFMMjAzLjQ0MSAxODYuNDUyQzIxNC4yNSAxOTcuMzE0IDIzMS43NjUgMTk3LjMxNCAyNDIuNTU5IDE4Ni40NTJMMjc2LjUxIDE1Mi4zMzFMMjIzIDk4LjU1MzdMMTY5LjQ5IDE1Mi4zMzFaIj48L3BhdGg+CiAgICAgIDxwYXRoIGQ9Ik0zNDkuNDkgOTguNTUzN0wyOTUuOTggMTUyLjMzMUwzMjkuOTMxIDE4Ni40NTJDMzQwLjc0IDE5Ny4zMTQgMzU4LjI1NiAxOTcuMzE0IDM2OS4wNDkgMTg2LjQ1Mkw0MDMgMTUyLjMzMUwzNDkuNDkgOTguNTUzN1oiPjwvcGF0aD4KICA8L2c+CiAgPGcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjbGFzcz0ic3BsYXNoc2NyZWVuLWFuaW1hdGlvbi1ncm91cDMiPgogICAgPHBhdGggZD0iTTEwNi4yNTMgMjE1LjlMMTQwLjIwNCAyNTAuMDJDMTUxLjAxMiAyNjAuODgzIDE2OC41MjggMjYwLjg4MyAxNzkuMzIyIDI1MC4wMkwyMTMuMjczIDIxNS45TDE1OS43NjMgMTYyLjEyM0wxMDYuMjUzIDIxNS45WiI+PC9wYXRoPgogICAgPHBhdGggZD0iTTIzMi43NDMgMjE1LjlMMjY2LjY5MyAyNTAuMDJDMjc3LjUwMiAyNjAuODgzIDI5NS4wMTggMjYwLjg4MyAzMDUuODEyIDI1MC4wMkwzMzkuNzYyIDIxNS45TDI4Ni4yNTMgMTYyLjEyM0wyMzIuNzQzIDIxNS45WiI+PC9wYXRoPgogIDwvZz4KPC9zdmc+)](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?name=ocr-gold&version=2.5.2&s3=default&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2FOcrIstex%2Focr-gold%2Frefs%2Fheads%2Fmain%2Finit.sh»&git.name=«»&git.email=«»&git.repository=«https%3A%2F%2Fgithub.com%2FOcrIstex%2Focr-gold»&autoLaunch=false)
+[![Static Badge](https://img.shields.io/badge/Github%20Template-Utiliser%20ce%20d%C3%A9p%C3%B4t%20comme%20mod%C3%A8le-green?logo=github&link=https%3A%2F%2Fgithub.com%2FOcrIstex%2Focr-gold%2Fgenerate)](https://github.com/new?template_name=ocr-gold&template_owner=OcrIstex)
 
 
 Datalab est une boîte à outils basé sur [Nix](https://nixos.org/) pour la manipulation de données en ligne de commande (SQL, JSON, YAML, XML, CSV, compression, téléchargement...). Le datalab est organisée par modules pouvant êtres activés indépendamment les uns des autres.
@@ -19,15 +19,15 @@ Datalab est une boîte à outils basé sur [Nix](https://nixos.org/) pour la man
 **Prérequis :** [Nix](https://nixos.org/download.html) avec les [*flakes* activées](https://nixos.wiki/wiki/Flakes) (`experimental-features = nix-command flakes`).
 
 ```bash
-git clone https://github.com/eonm-pro/.datalab
-cd .datalab
+git clone https://github.com/OcrIstex/ocr-gold
+cd ocr-gold
 ```
 
 ### Sur Onyxia (https://datalab.sspcloud.fr)
 
 Sur Onyxia (SSP Cloud), aucun prérequis particulier : Nix n'est pas installé par défaut dans les services (VSCode, Jupyter, RStudio...), mais il peut être installé via ces deux options :
 
-Automatiquement, en cliquant sur ce [lien](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?name=.datalab&version=2.5.2&s3=default&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2Feonm-pro%2F.datalab%2Frefs%2Fheads%2Fmain%2Finit.sh»&git.name=«»&git.email=«»&git.repository=«https%3A%2F%2Fgithub.com%2Feonm-pro%2F.datalab»&autoLaunch=false), un service est lancé avec Nix déjà installé et le dépôt déjà cloné.
+Automatiquement, en cliquant sur ce [lien](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?name=ocr-gold&version=2.5.2&s3=default&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2FOcrIstex%2Focr-gold%2Frefs%2Fheads%2Fmain%2Finit.sh»&git.name=«»&git.email=«»&git.repository=«https%3A%2F%2Fgithub.com%2FOcrIstex%2Focr-gold»&autoLaunch=false), un service est lancé avec Nix déjà installé et le dépôt déjà cloné.
 
 Ou manuellement, en configurant le script d'initialisation `init.sh` qui installe Nix, active les flakes, puis clone `datalab` :
 
@@ -37,16 +37,16 @@ Au lancement du service, en mode **Formulaire**
 
   | Champ                               | Valeur                                                            |
   |-------------------------------------|-------------------------------------------------------------------|
-  | **Use a custom script (URL)**       | `https://raw.githubusercontent.com/eonm-pro/.datalab/main/init.sh`|
+  | **Use a custom script (URL)**       | `https://raw.githubusercontent.com/OcrIstex/ocr-gold/main/init.sh`|
 
 2. Dépliez **« Git** _git user configuration_ **»** :
 
   | Champ                               | Valeur                                                           |
   |-------------------------------------|------------------------------------------------------------------|
-  | **Repository** *Repository url*     | `https://www.github.com/eonm-pro/.datalab` (ou votre dépôt)      |
+  | **Repository** *Repository url*     | `https://www.github.com/OcrIstex/ocr-gold` (ou votre dépôt)      |
 
 
-Par défaut, sur Onyxia, le datalab est situé dans un dossier caché : `~/work/.datalab`
+Par défaut, sur Onyxia, le datalab est situé dans un dossier caché : `~/work/ocr-gold`
 
 ## Utilisation
 
