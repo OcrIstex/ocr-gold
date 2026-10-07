@@ -43,7 +43,7 @@ DIFF_OPTS ?= --color=always --no-index --word-diff -w -B
 # its own OpenMP threads, which causes oversubscription.
 export OMP_THREAD_LIMIT := 1
 
-ISTEX_URL := https://api.istex.fr/document?q=(*)+AND+(language.raw:"eng")+AND+publicationDate:[2020+TO+2026]+AND+(genre.raw:"research-article"+genre.raw:"article")+AND+qualityIndicators.pdfWordCount:[1500+TO+275240]&size=100&rankBy=random&randomSeed=1791360826098&archiveType=zip&compressionLevel=6&sid=istex-search&extract=fulltext[pdf]
+ISTEX_URL := "https://api.istex.fr/document?q=(*)+AND+(language.raw:"eng")+AND+publicationDate:[2020+TO+2026]+AND+(genre.raw:"research-article"+genre.raw:"article")+AND+qualityIndicators.pdfWordCount:[1500+TO+275240]&size=100&rankBy=random&randomSeed=1791360826098&archiveType=zip&compressionLevel=6&sid=istex-search&extract=fulltext[pdf]"
 ZIP       := $(BUILD)/pdf-sample.zip
 
 # --- Discover inputs --------------------------------------------------------
@@ -72,7 +72,7 @@ download: | $(BUILD)
 	  echo "PDFs already present in $(PDF_DIR)/, skipping download (run 'make distclean' to redo)."
 	else
 	  curl --fail --location --show-error --retry 3 -g $(ISTEX_URL) \
-	  -H "Authorization: Bearer $ISTEX_TOKEN" \
+	  -H "Authorization: Bearer $(ISTEX_TOKEN)" \
 	  -o $(ZIP)
 	  mkdir -p $(PDF_DIR)
 	  unzip -q -o $(ZIP) -d $(PDF_DIR)

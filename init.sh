@@ -6,7 +6,8 @@ export PATH="$HOME/.nix-profile/bin:$PATH"
 
 # Install nix
 # Enable flakes + the new nix CLI
-sudo chown $USERNAME ~/.config/
+mkdir -p ~/.config/
+sudo chown "$USERNAME" ~/.config/
 mkdir -p ~/.config/nix
 echo "experimental-features = nix-command flakes" > ~/.config/nix/nix.conf
 
